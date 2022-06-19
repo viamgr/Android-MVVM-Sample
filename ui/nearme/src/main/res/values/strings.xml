@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="no_data_available">No Data Available</string>
+    <string name="distance_form_here">distance_form_here</string>
+    <string name="waiting_for_location">Waiting to get location</string>
+    <string name="not_found_item">Not found any item with this id</string>
+</resources>
